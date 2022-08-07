@@ -102,3 +102,6 @@ New release '20.04.4 LTS' available.
 Run 'do-release-upgrade' to upgrade to it.
 
 Last login: Fri Aug  5 14:43:27 2022 from 10.0.2.2
+
+##ference
+[1](https://stackoverflow.com/questions/21069908/vboxmanage-error-failed-to-create-the-host-only-adapter)
