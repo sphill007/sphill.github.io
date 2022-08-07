@@ -40,3 +40,4 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 
 ## Outline
 - [vagrant up problem](https://github.com/sphill007/sphill.github.io/edit/gh-pages/vagrant_up_problem.md)
+- [docker mirror problem](https://github.com/sphill007/sphill.github.io/edit/gh-pages/docker_mirror.md)
