@@ -107,4 +107,4 @@ Last login: Fri Aug  5 14:43:27 2022 from 10.0.2.2
 ```
 
 ## ference
-[1](https://stackoverflow.com/questions/21069908/vboxmanage-error-failed-to-create-the-host-only-adapter)
+[VBoxManage: error: Failed to create the host-only adapter](https://stackoverflow.com/questions/21069908/vboxmanage-error-failed-to-create-the-host-only-adapter)
