@@ -9,7 +9,7 @@ ERROR: Get https://registry-1.docker.io/v2/: net/http: request canceled (Client.
 
 ## 解决办法：修改镜像源为国内镜像源
 ```
-sudo vim /etc/docker/daemon.json
+$ sudo vim /etc/docker/daemon.json
 ```
 写入自定义仓库
 ```
@@ -37,3 +37,5 @@ f9506bb322c0: Already exists
 b6ea9c6684a0: Pull complete
 Creating cve-2016-4437_web_1 ... done
 ```
+
+如果windows平台使用docker desktop，修复问题方法类似，直接修改docker desktop配置，添加镜像源为国内镜像源，apply and restart即可。
