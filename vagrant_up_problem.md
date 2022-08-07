@@ -40,6 +40,8 @@ Loading VBoxNetAdp.kext
 ```
 $vagrant up
 ```
+正常启动了：
+```
 Bringing machine 'default' up with 'virtualbox' provider...
 ==> default: Checking if box 'pristine/ubuntu-budgie-18-x64' version '10.2.0' is up to date...
 ==> default: Vagrant has detected a configuration issue which exposes a
@@ -102,6 +104,7 @@ New release '20.04.4 LTS' available.
 Run 'do-release-upgrade' to upgrade to it.
 
 Last login: Fri Aug  5 14:43:27 2022 from 10.0.2.2
+```
 
-##ference
+## ference
 [1](https://stackoverflow.com/questions/21069908/vboxmanage-error-failed-to-create-the-host-only-adapter)
